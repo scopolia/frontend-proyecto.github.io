@@ -1,0 +1,160 @@
+
+
+
+
+
+
+/*navbar*/
+
+
+
+  
+.barra{
+  display:flex;
+  min-height: 100px;
+  width: 100%;
+  background-color: black;
+  align-items: center;
+
+}
+
+
+
+.icono-menu a img{
+  width: 75px;
+  float: left;
+  margin: 0px 30px 0px 20px;
+ 
+
+
+  
+
+}
+.mensaje h1{
+  color: white;
+  margin-right: 150px;
+  justify-content: center;
+  margin-left: 220px;
+  
+}
+
+
+  
+
+
+
+
+
+
+
+/*formulario*/
+
+  
+
+
+
+
+
+  .formbox{
+    width: 100%;
+    padding: 30px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url(/abstract_background_with_an_organic_turing_pattern_design_1101.jpg);
+
+  }
+  
+  .formulario {
+    display: flex;
+    width: 70%;
+    border: black solid 3px;
+    border-radius: 10%;
+    padding: 20px;
+    background-color: azure;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  
+  .formulario ul{
+    list-style: none;
+    padding: 30px;
+    
+    
+  }
+  .formulario li{
+    margin-top: 10px;
+  }
+  .formulario label{
+    display: inline-block;
+    text-align: left;
+    min-width: 200px;
+    color: rgb(31, 31, 108);
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .formulario input{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: gr;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: solid black 2px;
+    background: rgb(186, 194, 210);
+  }
+  .area-texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  .area-texto label{
+    margin: 20px 0
+  }
+  
+  .formulario textarea{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: gr;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: solid black 2px;
+    background: rgb(186, 194, 210);
+  
+  }
+  
+  
+  .button{
+    font-size: 2.5rem;
+    padding: 20px;
+  
+    
+  }
+  .button button{
+    width: 200px;
+    font-size: 1.5rem;
+    padding: 20px;
+    border: rgb(151, 222, 45) solid 3px;
+    border-radius: 10px;
+    background-color: black;
+    color: greenyellow;
+  }
+
+
+
+
+  
+  
+  
+  
+
+    
+  
