@@ -19,7 +19,6 @@
 
 
 
-
 /*encabezado*/
 
 header {
@@ -38,12 +37,13 @@ header {
 
 
 .menu{
-  width: 900px;
-  margin: 0,auto;
+  width: 100%;
+  
+  
 }
 .menu img{
   width: 75px;
-  height: 50;
+  height: 50%;
   float: left;
   padding: 8px;
 
@@ -52,15 +52,14 @@ header {
 
 
 
-nav{
-  float: right;
-}
+
   nav ul li{
       list-style: none;
-      margin-left: 75px;
+      margin-left: 100px;
       padding: 25px 0;
       float: left;
-      position: relative;
+      
+      
   }
 
   nav ul li a{
@@ -87,6 +86,7 @@ nav{
   nav ul li a:hover{
     color: greenyellow;
     }
+
 
   
   /* foto de perfil*/
